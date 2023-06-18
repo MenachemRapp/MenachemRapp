@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MenachemRapp
 - 👀 I’m interested in programming and problem solving
-- 🌱 I’m currently learning computer sceince, started my final year. I know python, C#, Java, C++/C and more.
+- 🌱 I know python, C#, Java, C++/C and more.
 <!---
 - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me mrappapo@g.jct.ac.il
