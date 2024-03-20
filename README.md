@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MenachemRapp
-- 👀 I’m interested in programming and problem solving
-- 🌱 I know Formal Verification, Verilog ,python, C#, Java, C++/C and more.
+- 👀 I’m interested in Formal Verification
+- 🌱 I know Verilog SVA assertions, python, C#, Java, C++/C and more.
 <!---
 - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me  ‫menachem1rappapo@gmail.com‬
